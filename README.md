@@ -6,7 +6,7 @@ Cheers!!!
 🚀##Getting Started##
 Clone the repository:
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/priyanshu026922/TIC_TAC_TOE.git
 
 Navigate to the project folder: cd TIC_TAC_TOE
 
